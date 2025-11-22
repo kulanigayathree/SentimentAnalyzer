@@ -1,9 +1,9 @@
-🌟 Sentiment Analysis Using Logistic Regression
+## 🌟 Sentiment Analysis Using Logistic Regression
 
 A simple and beginner-friendly Machine Learning project that predicts whether a given text is Positive or Negative.
 This project demonstrates end-to-end ML workflow: data creation, preprocessing, vectorization, model training, testing, and prediction.
 
-🚀 Project Features
+## 🚀 Project Features
 
 Clean, beginner-friendly dataset
 
@@ -28,7 +28,7 @@ Entire project implemented inside a single Jupyter Notebook
 | **LogisticRegression**| Sentiment classification     |
 | **Jupyter Notebook**  | Interactive coding environment |
 
-🎯 Results
+## 🎯 Results
 
 Small dataset → simple but clear model
 
@@ -36,7 +36,7 @@ Accuracy can vary depending on test split
 
 Works great for demo / beginner ML learning
 
-🌱 Future Improvements
+## 🌱 Future Improvements
 
 You can extend the project by:
 
@@ -50,6 +50,6 @@ Building a small Streamlit web app
 
 Adding data visualization
 
-❤️ Motivation
+## ❤️ Motivation
 
 This project is created as a beginner-friendly intro to Machine Learning and NLP, especially for students who want to understand how text classification works in the simplest possible way.
