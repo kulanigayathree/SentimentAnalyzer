@@ -5,17 +5,12 @@ This project demonstrates end-to-end ML workflow: data creation, preprocessing, 
 
 ## 🚀 Project Features
 
-Clean, beginner-friendly dataset
-
-TF-IDF used to convert text into numerical vectors
-
-Logistic Regression model for classification
-
-Accuracy evaluation using test data
-
-Ability to predict sentiment for any custom sentence
-
-Entire project implemented inside a single Jupyter Notebook
+- Clean, beginner-friendly dataset
+- TF-IDF used to convert text into numerical vectors
+- Logistic Regression model for classification
+- Accuracy evaluation using test data
+- Ability to predict sentiment for any custom sentence
+- Entire project implemented inside a single Jupyter Notebook
 
 ## 📦 Technologies Used
 
@@ -29,26 +24,17 @@ Entire project implemented inside a single Jupyter Notebook
 | **Jupyter Notebook**  | Interactive coding environment |
 
 ## 🎯 Results
-
-Small dataset → simple but clear model
-
-Accuracy can vary depending on test split
-
-Works great for demo / beginner ML learning
+- Small dataset → simple but clear model
+- Accuracy can vary depending on test split
+- Works great for demo / beginner ML learning
 
 ## 🌱 Future Improvements
-
-You can extend the project by:
-
-Using a larger real-world dataset
-
-Trying models like Naive Bayes, SVM, Random Forest
-
-Deploying the model with Flask / FastAPI
-
-Building a small Streamlit web app
-
-Adding data visualization
+- You can extend the project by:
+- Using a larger real-world dataset
+- Trying models like Naive Bayes, SVM, Random Forest
+- Deploying the model with Flask / FastAPI
+- Building a small Streamlit web app
+- Adding data visualization
 
 ## ❤️ Motivation
 
