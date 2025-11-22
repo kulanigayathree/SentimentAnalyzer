@@ -17,11 +17,14 @@ Custom sentence prediction
 
 Fully implemented in a single Jupyter Notebook
 
-📦 Technologies Used
-Tool / Library	Purpose
-Python	Main programming language
-Pandas	Data handling
-Scikit-Learn	Machine Learning
-TfidfVectorizer	Text preprocessing
-LogisticRegression	Classification model
-Jupyter Notebook	Interactive development
+## 📦 Technologies Used
+
+| Tool / Library        | Purpose                     |
+|------------------------|-----------------------------|
+| **Python**            | Main programming language    |
+| **Pandas**            | Data handling & preprocessing|
+| **Scikit-Learn**      | Machine Learning algorithms  |
+| **TfidfVectorizer**   | Convert text → numerical form|
+| **LogisticRegression**| Sentiment classification     |
+| **Jupyter Notebook**  | Interactive coding environment |
+
