@@ -5,17 +5,17 @@ This project demonstrates end-to-end ML workflow: data creation, preprocessing, 
 
 🚀 Project Features
 
-Clean, minimal dataset for easy understanding
+Clean, beginner-friendly dataset
 
-TF-IDF for text-to-numeric conversion
+TF-IDF used to convert text into numerical vectors
 
-Logistic Regression for classification
+Logistic Regression model for classification
 
-Accuracy evaluation on test data
+Accuracy evaluation using test data
 
-Custom sentence prediction
+Ability to predict sentiment for any custom sentence
 
-Fully implemented in a single Jupyter Notebook
+Entire project implemented inside a single Jupyter Notebook
 
 ## 📦 Technologies Used
 
@@ -28,3 +28,28 @@ Fully implemented in a single Jupyter Notebook
 | **LogisticRegression**| Sentiment classification     |
 | **Jupyter Notebook**  | Interactive coding environment |
 
+🎯 Results
+
+Small dataset → simple but clear model
+
+Accuracy can vary depending on test split
+
+Works great for demo / beginner ML learning
+
+🌱 Future Improvements
+
+You can extend the project by:
+
+Using a larger real-world dataset
+
+Trying models like Naive Bayes, SVM, Random Forest
+
+Deploying the model with Flask / FastAPI
+
+Building a small Streamlit web app
+
+Adding data visualization
+
+❤️ Motivation
+
+This project is created as a beginner-friendly intro to Machine Learning and NLP, especially for students who want to understand how text classification works in the simplest possible way.
