@@ -40,7 +40,7 @@ st.write("")
 # ---- Input Box ----
 user_input = st.text_area(
     "✨ Enter your text below:",
-    placeholder="Write something like: 'I love this product!'",
+    placeholder="Write something!",
     height=120
 )
 
@@ -60,6 +60,6 @@ if st.button("🔮 Predict Sentiment"):
 
 # ---- Footer ----
 st.markdown(
-    "<p style='text-align:center; margin-top:40px; color:#888;'>Made with 💖 by Kulani</p>",
+    "<p style='text-align:center; margin-top:40px; color:#888;'>Your daily mood checker 🌟</p>",
     unsafe_allow_html=True
 )
