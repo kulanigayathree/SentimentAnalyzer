@@ -1,41 +1,65 @@
-## 🌟 Sentiment Analysis Using Logistic Regression
+# 🌟 Sentiment Analysis Using Logistic Regression
 
-A simple and beginner-friendly Machine Learning project that predicts whether a given text is Positive or Negative.
-This project demonstrates end-to-end ML workflow: data creation, preprocessing, vectorization, model training, testing, and prediction.
+A beginner-friendly Machine Learning project that predicts whether a given text is **Positive** or **Negative**.  
+This project demonstrates an **end-to-end ML workflow**: data creation, preprocessing, vectorization, model training, testing, and prediction.  
+Now enhanced with a **Streamlit app** to make predictions interactively.
+
+---
 
 ## 🚀 Project Features
 
-- Clean, beginner-friendly dataset
-- TF-IDF used to convert text into numerical vectors
-- Logistic Regression model for classification
-- Accuracy evaluation using test data
-- Ability to predict sentiment for any custom sentence
-- Entire project implemented inside a single Jupyter Notebook
+- Clean, beginner-friendly dataset  
+- TF-IDF vectorization to convert text into numerical format  
+- Logistic Regression model for sentiment classification  
+- Accuracy evaluation using test data  
+- Ability to predict sentiment for any custom sentence  
+- Fully implemented in a **Jupyter Notebook**  
+- **Streamlit app** for interactive predictions using saved model files
+
+---
 
 ## 📦 Technologies Used
 
-| Tool / Library        | Purpose                     |
-|------------------------|-----------------------------|
-| **Python**            | Main programming language    |
-| **Pandas**            | Data handling & preprocessing|
-| **Scikit-Learn**      | Machine Learning algorithms  |
-| **TfidfVectorizer**   | Convert text → numerical form|
-| **LogisticRegression**| Sentiment classification     |
-| **Jupyter Notebook**  | Interactive coding environment |
+| Tool / Library        | Purpose                                 |
+|-----------------------|-----------------------------------------|
+| **Python**            | Main programming language               |
+| **Pandas**            | Data handling & preprocessing           |
+| **Scikit-Learn**      | Machine Learning algorithms             |
+| **TfidfVectorizer**   | Convert text → numerical form           |
+| **LogisticRegression**| Sentiment classification                 |
+| **Jupyter Notebook**  | Interactive coding environment          |
+| **Streamlit**         | Interactive web interface for predictions|
+
+---
+
+## 📂 Saved Model Files
+
+- `model.pkl` → Trained Logistic Regression model  
+- `vectorizer.pkl` → TF-IDF vectorizer for text preprocessing  
+
+These files allow the **Streamlit app** to make predictions **without retraining**.
+
+---
 
 ## 🎯 Results
-- Small dataset → simple but clear model
-- Accuracy can vary depending on test split
-- Works great for demo / beginner ML learning
+
+- Small dataset → simple yet clear model  
+- Accuracy may vary depending on test split  
+- Works perfectly for **demo purposes** and beginner ML learning
+
+---
 
 ## 🌱 Future Improvements
-- You can extend the project by:
-- Using a larger real-world dataset
-- Trying models like Naive Bayes, SVM, Random Forest
-- Deploying the model with Flask / FastAPI
-- Building a small Streamlit web app
-- Adding data visualization
+
+- Extend the project with a **larger real-world dataset**  
+- Try other models like **Naive Bayes, SVM, Random Forest**  
+- Deploy the model online using **Streamlit Cloud**  
+- Add **data visualization** for sentiment trends and analysis  
+
+---
 
 ## ❤️ Motivation
 
-This project is created as a beginner-friendly intro to Machine Learning and NLP, especially for students who want to understand how text classification works in the simplest possible way.
+This project is created as a **beginner-friendly introduction** to Machine Learning and NLP, especially for students who want to understand **text classification** in the simplest way.  
+
+The addition of a **Streamlit app** makes it easy to interactively test and visualize the predictions.
